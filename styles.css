@@ -1,4 +1,4 @@
-.fa.fa-thumbs-o-down, .fa.fa-thumbs-o-up, .fa-heart-o, .fa-bell-o, .fa-comment-o, .fa-question-circle, .fa-picture-o, .fa-remove, .fa-close {
+.fa.fa-thumbs-o-down, .fa.fa-thumbs-o-up, .fa-heart-o, .fa-bell-o, .fa-comment-o, .fa-question-circle-o, .fa-picture-o, .fa-remove, .fa-close {
     font-weight: 300; }
 
 .fa-facebook-square, .fa-twitter-square, .fa-google-plus-square {
@@ -19,7 +19,7 @@
 .fa-comment-o:before {
     content: "\f075"; }
 
-.fa-question-circle:before {
+.fa-question-circle:before, .fa-question-circle-o:before {
     content: "\f059"; }
 
 .fa-picture-o:before {
@@ -27,6 +27,3 @@
 
 .fa-remove:before, .fa-close:before {
     content: "\f00d"; }
-
-
-
