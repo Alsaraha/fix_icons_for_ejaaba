@@ -1,0 +1,18 @@
+{
+		"manifest_version": 2,
+		"name": "إصلاح الأيقونات في موقع إجابة",
+		"version": "0",
+
+		"description": "استبدال الأيقونات القديمة بالأيقونات الجديدة",
+		"icons": {
+				"48": "icon48.ico",
+				"96": "icon96.ico"
+		},
+
+		"content_scripts": [{
+				"matches": ["*://*.ejaaba.com/*"],
+				"css": ["styles.css"]
+		}],
+		"homepage_url": "http://mahatta-35.byethost9.com/fix.html",
+		"incognito": "spanning"
+}

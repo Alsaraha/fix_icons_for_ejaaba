@@ -1,0 +1,32 @@
+.fa.fa-thumbs-o-down, .fa.fa-thumbs-o-up, .fa-heart-o, .fa-bell-o, .fa-comment-o, .fa-question-circle, .fa-picture-o, .fa-remove, .fa-close {
+    font-weight: 300; }
+
+.fa-facebook-square, .fa-twitter-square, .fa-google-plus-square {
+    font-family: 'Font Awesome 5 Brands'; }
+
+.fa-thumbs-o-down:before {
+    content: "\f165"; }
+
+.fa-thumbs-o-up:before {
+    content: "\f164"; }
+
+.fa-heart-o:before {
+    content: "\f004"; }
+
+.fa-bell-o:before {
+    content: "\f0f3"; }
+
+.fa-comment-o:before {
+    content: "\f075"; }
+
+.fa-question-circle:before {
+    content: "\f059"; }
+
+.fa-picture-o:before {
+  content: "\f03e"; }
+
+.fa-remove:before, .fa-close:before {
+    content: "\f00d"; }
+
+
+
